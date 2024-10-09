@@ -1,6 +1,13 @@
 # Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+Build a fullstack NFT marketplace like opensea using Next.js, Hardhat and Rainbowkit
+
+# Tools
+- Hardhat
+- Next.js
+- The Graph
+- Rainbowkit
+- Wagmi
 
 Try running some of the following tasks:
 
